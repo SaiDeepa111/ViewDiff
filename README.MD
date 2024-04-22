@@ -1,4 +1,4 @@
-# ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models
+# ViewDiff: 3D-Consistent Image Generation with Text-to-Image Models SAI
 ViewDiff generates high-quality, multi-view consistent images of a real-world 3D object in authentic surroundings.
 
 This is the official repository that contains source code for the CVPR 2024 paper [ViewDiff](https://lukashoel.github.io/ViewDiff/).
