@@ -1,5 +1,4 @@
-python==3.9
-torch==2.0.0
+
 
 accelerate==0.23.0
 bitsandbytes==0.41.2.post2
@@ -17,7 +16,7 @@ packaging==23.2
 Pillow==10.2.0
 PyYAML==6.0.1
 scikit-image==0.20.0
-scipy==1.10.0
+scipy==1.8.0
 torch==2.0.1
 torchvision==0.15.2
 tqdm==4.65.0
